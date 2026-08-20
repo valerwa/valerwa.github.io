@@ -1,0 +1,16 @@
+{
+  "name": "RPTU Newcomers Guide",
+  "short_name": "KL Guide",
+  "description": "Offline guide for international students newly arrived at RPTU Kaiserslautern: formalities, campus, living, shopping and public transport.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f6f8f7",
+  "theme_color": "#1b6e63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
